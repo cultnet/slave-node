@@ -1,5 +1,5 @@
 {
-  "name": "ts-node-dev",
+  "name": "@cultnet/slave-node",
   "version": "1.0.0-pre.43",
   "description": "Compiles your TS app and restarts when files are modified.",
   "keywords": [
@@ -15,12 +15,12 @@
   ],
   "repository": {
     "type": "git",
-    "url": "http://github.com/whitecolor/ts-node-dev.git"
+    "url": "http://github.com/cultnet/slave-node.git"
   },
   "license": "MIT",
   "bin": {
-    "ts-node-dev": "./bin/ts-node-dev",
-    "tsnd": "./bin/ts-node-dev"
+    "ts-node-dev": "./bin/cultnet-slave-node",
+    "tsnd": "./bin/cultnet-slave-node"
   },
   "main": "./lib",
   "files": [
