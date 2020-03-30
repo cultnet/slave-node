@@ -1,6 +1,6 @@
 {
   "name": "@cultnet/slave-node",
-  "version": "1.0.0-pre.43",
+  "version": "0.1.0",
   "description": "Compiles your TS app and restarts when files are modified.",
   "keywords": [
     "restart",
